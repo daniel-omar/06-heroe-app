@@ -2,11 +2,35 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
   "heroes": [
+    {
+      "id": "dc-batman",
+      "superhero": "Batman",
+      "publisher": "DC Comics",
+      "alter_ego": "Bruce Wayne",
+      "first_appearance": "Detective Comics #27",
+      "characters": "Bruce Wayne"
+    },
+    {
+      "id": "dc-superman",
+      "superhero": "Superman",
+      "publisher": "DC Comics",
+      "alter_ego": "Kal-El",
+      "first_appearance": "Action Comics #1",
+      "characters": "Kal-El"
+    },
+    {
+      "id": "dc-flash",
+      "superhero": "Flash",
+      "publisher": "DC Comics",
+      "alter_ego": "Jay Garrick",
+      "first_appearance": "Flash Comics #1",
+      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
+    },
     {
       "id": "dc-green",
       "superhero": "Green Lantern",
@@ -142,24 +166,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "Xed7I_G",
-      "superhero": "d",
-      "publisher": "DC Comics",
-      "alter_ego": "d",
-      "first_appearance": "d",
-      "characters": "d",
-      "alt_img": ""
-    },
-    {
-      "id": "oeICNQh",
-      "superhero": "Wolverine",
-      "publisher": "Marvel Comics",
-      "alter_ego": "lobezno",
-      "first_appearance": "1950",
-      "characters": "X-men",
-      "alt_img": "https://i.blogs.es/22cd4d/the-20wolverine-20teaser-20poster/450_1000.jpg"
     }
   ]
 }
